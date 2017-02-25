@@ -1,3 +1,8 @@
+# Open Rproj file in RStudio (to have your working directory inside the current folder).
+# Then Source this R file and follow the instructions.
+
+
+
 #-------------------------Package Installer--------------------------
 # load packages and install if missing
 # thanks to Richard Schwinn for the code, http://stackoverflow.com/a/33876492
