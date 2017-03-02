@@ -105,3 +105,6 @@ prompt_input <- function() {
     
     return(answ)
 }
+
+
+workflow()
